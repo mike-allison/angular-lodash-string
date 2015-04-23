@@ -1,3 +1,5 @@
+//created from from https://github.com/epeli/underscore.string/issues/285 & https://github.com/tlvince/angular-underscore-string
+
 //Before the definition of the app's module, add 'lodash' as a model,
 // providing the injectable '_' service, to which we'll mixin 'underscore.string' functions
 angular.module('lodash.underscore.string',[]).factory('_', function ($window) {
