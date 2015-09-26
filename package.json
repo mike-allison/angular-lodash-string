@@ -1,0 +1,28 @@
+{
+  "name": "angular-lodash-string",
+  "version": "1.0.0",
+  "description": "Angular Lodash provider with underscore.string support",
+  "main": "angular-lodash-string.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mike-allison/angular-lodash-string.git"
+  },
+  "keywords": [
+    "angular",
+    "lodash",
+    "underscore.string"
+  ],
+  "dependencies": {
+    "underscore.string": ">=2.0.0",
+    "lodash": ">=2.0.0"
+  },
+  "author": "Mike Allison",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mike-allison/angular-lodash-string/issues"
+  },
+  "homepage": "https://github.com/mike-allison/angular-lodash-string#readme"
+}
